@@ -1,1 +1,6 @@
 Caesar cipher :  Encryption Techique in which words are replace by +3 character
+
+Encryption: C = (p+k)*mod(m)
+Decryption: P = (c-k)*mod(m)
+
+      for Caesar Cipher key=3
